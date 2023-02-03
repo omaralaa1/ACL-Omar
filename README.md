@@ -531,6 +531,7 @@ Contributions to this project are welcome and will be appreciated. To contribute
 - [Node.js](https://www.youtube.com/watch?v=fgTGADljAeg&list=PLZlA0Gpn_vH_uZs4vJMIhcinABSTUH2bY&index=4)
 - [MongoDB](https://www.youtube.com/watch?v=fgTGADljAeg&list=PLZlA0Gpn_vH_uZs4vJMIhcinABSTUH2bY&index=4)
 - [Express](https://www.youtube.com/watch?v=fgTGADljAeg&list=PLZlA0Gpn_vH_uZs4vJMIhcinABSTUH2bY&index=4)
+- [How to accept payments with stripe](https://www.youtube.com/watch?v=1r-F3FIONl8)
 ## The Crew
 The team has disbanded. However, I appreciate everyone's effort in working on this project together.
 
