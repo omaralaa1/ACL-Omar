@@ -444,7 +444,7 @@ const CourseContent = () => {
 };
 export default CourseContent;
 ```
-## API Reference
+## API Reference Examples
 - GET a refund:-
 ~ Email and Password required.
 Response:
